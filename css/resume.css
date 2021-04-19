@@ -45,6 +45,10 @@ h3 {
   font-size: 1.35rem;
 }
 
+.i-heading {
+  font-weight: normal;
+}
+
 .list-social-icons a {
   color: #495057;
 }
@@ -335,18 +339,11 @@ textarea[name=message]{
   background-image: url('../icons/heroku-hover.png');
 }
 
-
-
-
-
-
-
-
 /*.card-body img {
   height:25px;
   width:25px;
   margin-bottom: 5px;
-}
-.card-body img: hover {
+}*/
+/*.card-body img: hover {
   image: url('./icons/heroku2.png');
 }*/
